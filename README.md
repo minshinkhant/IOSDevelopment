@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/X1HMMvl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![APP walkthrough](https://imgur.com/a/X1HMMvl)
 
 
 ## Notes
